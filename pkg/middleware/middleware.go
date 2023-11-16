@@ -8,7 +8,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/FlockLinx/glogger/pkg/logger"
-
+)
 
 type responseWriter struct {
 	gin.ResponseWriter
