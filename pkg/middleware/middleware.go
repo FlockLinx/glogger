@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/yourusername/yourproject/pkg/logger"
-)
+	"github.com/FlockLinx/glogger/pkg/logger"
+
 
 type responseWriter struct {
 	gin.ResponseWriter

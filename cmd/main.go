@@ -4,8 +4,8 @@ import (
 	"context"
 
 	"github.com/gin-gonic/gin"
-	"github.com/yourusername/glogger/pkg/logger"
-	"github.com/yourusername/glogger/pkg/middleware"
+	"github.com/FlockLinx/glogger/pkg/logger"
+	"github.com/FlockLinx/glogger/pkg/middleware"
 )
 
 var log *logger.CustomLogger
